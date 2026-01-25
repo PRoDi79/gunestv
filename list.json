@@ -1,0 +1,29 @@
+{
+  "playlists": [
+    {
+      "name": "Goldvod",
+      "url": "https://goldvod.org/get.php?username=hpgdiscoo&password=123456&type=m3u_plus",
+      "type": "remote"
+    },
+    {
+      "name": "BONCUK",
+      "url": "https://tinyurl.com/mggboncuk",
+      "type": "remote"
+    },
+    {
+      "name": "İzlego18",
+      "url": "https://tinyurl.com/mggi18",
+      "type": "remote"
+    },
+    {
+      "name": "İBB Trafik Kameraları",
+      "url": "https://tinyurl.com/mggibbwebcam",
+      "type": "remote"
+    },
+    {
+      "name": "KralTürk",
+      "url": "https://tinyurl.com/mggkral",
+      "type": "remote"
+    }
+  ]
+}
