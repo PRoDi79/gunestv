@@ -1,4 +1,9 @@
 [
+ {
+    "kaynak": "m3u8",
+    "name": "NurcX",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/nurxc.m3u"
+  },
   {
     "kaynak": "m3u8",
     "name": "BoncukTv",
@@ -67,7 +72,22 @@
   },
     {
     "kaynak": "m3u8",
+    "name": "Dünya Futbol",
+    "url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u"
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Turkiye Denizhan",
+    "url": "https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u"
+  },
+    {
+    "kaynak": "m3u8",
     "name": "Tvjustin",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
-    }
+    },
+     {
+    "kaynak": "m3u8",
+    "name": "XXX2",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/%D1%85%D1%852.m3u"
+    }  
   ]
