@@ -36,17 +36,17 @@
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8"
   },
     {
-    "kaynak": "m3u",
+    "kaynak": "m3u8",
     "name": "KralTürk",
     "url": "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/refs/heads/main/TURK_TV.m3u_plus"
   },
     {
-    "kaynak": "m3u",
+    "kaynak": "m3u8",
     "name": "İBB Trafik Kameraları",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/ibb_cams.m3u"
   },
     {
-    "kaynak": "m3u",
+    "kaynak": "m3u8",
     "name": "istanbul Tursitik Kameralar",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/webcamyt.m3u"
   },
