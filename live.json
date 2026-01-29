@@ -1,29 +1,52 @@
-{
-  "playlists": [
+[
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo.to",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar6.m3u8",
+    "referer": "https://vavoo.to/",
+    "origin": "https://vavoo.to",
+    "user-agent": "vavoo/2.6"
+  },
     {
-      "name": "Goldvod",
-      "url": "https://goldvod.org/get.php?username=hpgdiscoo&password=123456&type=m3u_plus",
-      "type": "remote"
-    },
+    "kaynak": "m3u8",
+    "name": "Tr Goals",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8"
+  },
     {
-      "name": "BONCUK",
-      "url": "https://tinyurl.com/mggboncuk",
-      "type": "remote"
-    },
+    "kaynak": "m3u",
+    "name": "KralTürk",
+    "url": "https://tinyurl.com/mggkral"
+  },
     {
-      "name": "İzlego18",
-      "url": "https://tinyurl.com/mggi18",
-      "type": "remote"
-    },
+    "kaynak": "m3u",
+    "name": "İBB Trafik Kameraları",
+    "url": "https://tinyurl.com/mggibbwebcam"
+  },
     {
-      "name": "İBB Trafik Kameraları",
-      "url": "https://tinyurl.com/mggibbwebcam",
-      "type": "remote"
-    },
+    "kaynak": "m3u8",
+    "name": "İzlego18",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8"
+  },
     {
-      "name": "KralTürk",
-      "url": "https://tinyurl.com/mggkral",
-      "type": "remote"
+    "kaynak": "m3u8",
+    "name": "SelcukSports",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "XyzSports",
+    "url": "https://tinyurl.com/mggi18"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Taraftarium24",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar4.m3u8"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Tvjustin",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
     }
+
   ]
 }
