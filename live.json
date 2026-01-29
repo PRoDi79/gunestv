@@ -1,6 +1,24 @@
 [
   {
     "kaynak": "m3u8",
+    "name": "BoncukTv",
+    "url": "https://mth.tc/boncuktv"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "UzunMuhalefet",
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
+  },
+    {
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.org",
+    "username": "hpgdisco",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+  {
+    "kaynak": "m3u8",
     "name": "Vavoo.to",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar6.m3u8",
     "referer": "https://vavoo.to/",
@@ -15,12 +33,12 @@
     {
     "kaynak": "m3u",
     "name": "KralTürk",
-    "url": "https://tinyurl.com/mggkral"
+    "url": "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/refs/heads/main/TURK_TV.m3u_plus"
   },
     {
     "kaynak": "m3u",
     "name": "İBB Trafik Kameraları",
-    "url": "https://tinyurl.com/mggibbwebcam"
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/ibb_cams.m3u"
   },
     {
     "kaynak": "m3u8",
@@ -41,6 +59,11 @@
     "kaynak": "m3u8",
     "name": "Taraftarium24",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar4.m3u8"
+  },
+    {
+    "kaynak": "Vod",
+    "name": "FilmEkseni",
+    "url": "https://raw.githubusercontent.com/sultansmgr/smart/refs/heads/main/FilmEkseni.m3u"
   },
     {
     "kaynak": "m3u8",
