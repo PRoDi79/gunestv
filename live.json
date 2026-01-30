@@ -42,6 +42,11 @@
   },
     {
     "kaynak": "m3u8",
+    "name": "KralTürk",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/mywaycanlitv.m3u"
+  },
+    {
+    "kaynak": "m3u8",
     "name": "Zfr06",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/06.m3u"
   },
