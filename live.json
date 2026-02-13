@@ -95,11 +95,19 @@
     "name": "Dünya Futbol",
     "url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u"
   },
-   {
-    "kaynak": "m3u8",
-    "name": "Turkiye Denizhan",
-    "url": "https://raw.githubusercontent.com/omerdenizhan/IPTV-M3U/refs/heads/main/m3u/turkiye.m3u"
+    {
+    "kaynak": "xtream",
+    "name": "Vipmaxx",
+    "url": "http://vipmax.live:8080",
+    "username": "dbulentvatan",
+    "password": "71dPex659H",
+    "userAgent": "IPTVSmartersPlayer"
   },
+ {
+    "kaynak": "m3u8",
+    "name": "Vipmaxx2",
+    "url": "http://vipmax.live:8080/get.php?username=hbp025krvn&password=Q2XqxHfmTw&type=m3u&output=ts"
+    },
     {
     "kaynak": "m3u8",
     "name": "Tvjustin",
