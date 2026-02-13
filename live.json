@@ -128,11 +128,6 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "ext2707-lhm2",
-    "url": "http://ext2707.xyz:8080/get.php?username=lhm2439&password=lhm.5&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
     "name": "ext2707-masa",
     "url": "http://ext2707.xyz:8080/get.php?username=masal2024&password=ccb2b6f61a2b0d68&type=m3u&output=ts"
   },
@@ -357,3 +352,4 @@
     "url": "http://5.135.109.43:80/get.php?username=Meminbasut&password=ZbxEfSsa6ZZbbe&type=m3u&output=ts"
   }
 ]
+
