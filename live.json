@@ -62,7 +62,7 @@
   },
    {
     "kaynak": "m3u8",
-    "name": "KabloTv",
+    "name": "KabloNeT",
     "url": "https://irmaginin-akisina-olurum-turkiyem.umitm0dder.workers.dev/playlist.m3u"
   },
    {
@@ -183,6 +183,7 @@
   },
   
 ]
+
 
 
 
