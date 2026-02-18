@@ -12,6 +12,11 @@
     "name": "PowerSinema",
     "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
   },
+    {
+    "kaynak": "m3u8",
+    "name": "FanatilFilm",
+    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/F%C4%B0LMLERFANT%C4%B0KAPPP.m3u"
+  },
   {
     "kaynak": "m3u8",
     "name": "Myway Vod",
