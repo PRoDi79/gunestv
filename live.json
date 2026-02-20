@@ -42,7 +42,7 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "KralTürk",
+    "name": "myway",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/mywaycanlitv.m3u"
   },
   {
@@ -136,53 +136,8 @@
     "name": "Tvjustin",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
   },
-  {
-    "kaynak": "m3u8",
-    "name": "XXX2",
-    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/%D1%85%D1%852.m3u"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-masa",
-    "url": "http://ext2707.xyz:8080/get.php?username=masal2024&password=ccb2b6f61a2b0d68&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-rcn2",
-    "url": "http://ext2707.xyz:8080/get.php?username=rcn24051&password=cn.03052024&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-tly6",
-    "url": "http://ext2707.xyz:8080/get.php?username=tly6005&password=tly.6005&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-city",
-    "url": "http://ext2707.xyz:8080/get.php?username=city6328&password=kz123456&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-cgr7",
-    "url": "http://ext2707.xyz:8080/get.php?username=cgr7599&password=cgr00xy&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-cfr9",
-    "url": "http://ext2707.xyz:8080/get.php?username=cfr9200&password=cn.05122023&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-argu",
-    "url": "http://ext2707.xyz:8080/get.php?username=argu.1958&password=e19059078b0e25a7&type=m3u&output=ts"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "ext2707-aras",
-    "url": "http://ext2707.xyz:8080/get.php?username=aras2017&password=b255fc2c323e1e58&type=m3u&output=ts"
-  },
-  
 ]
+
 
 
 
