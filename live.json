@@ -136,13 +136,14 @@
     "name": "Tvjustin",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
   },
-    {
+  {
     "kaynak": "mac",
     "name": "My STB",
     "url": "http://line.iptveros.com:80",
     "mac": "00:1A:79:C2:B2:30"
   }
 ]
+
 
 
 
