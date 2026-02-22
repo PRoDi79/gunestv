@@ -47,10 +47,15 @@
     "name": "Hd Film",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/HDFilm.m3u"
   },
-    {
+   {
     "kaynak": "m3u8",
     "name": "izlego18",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/izlego18.m3u"
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "FanatikPlay Dizi",
+    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/Fanat%C4%B1kPlayD%C4%B1z%C4%B1.m3u"
   },
   {
     "kaynak": "m3u8",
