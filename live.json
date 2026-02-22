@@ -118,11 +118,6 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "Tvjustin",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
-  },
-  {
-    "kaynak": "m3u8",
     "name": "DSmartGo",
     "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar6.m3u8",
     "referer": "https://www.dsmartgo.com.tr/",
@@ -130,6 +125,7 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
   }
 ]
+
 
 
 
