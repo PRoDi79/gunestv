@@ -42,8 +42,8 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "Zfr06",
-    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/06.m3u"
+    "name": "Ptrn",
+    "url": "http://87.121.104.29:1855/patronyt.m3u"
   },
   {
     "kaynak": "m3u8",
@@ -125,6 +125,7 @@
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
   }
 ]
+
 
 
 
