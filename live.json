@@ -1,0 +1,123 @@
+[
+  {
+    "kaynak": "m3u8",
+    "name": "BoncukTv",
+    "url": "https://mth.tc/boncuktv"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "UzunMuhalefet",
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
+  },
+  {
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.site",
+    "username": "hpgdisco",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Vavoo.to",
+    "url": "https://raw.githubusercontent.com/GeceKod/vavoo/refs/heads/main/vavoo.m3u",
+    "referer": "https://vavoo.to/",
+    "origin": "https://vavoo.to",
+    "user-agent": "vavoo/2.6"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Tr Goals",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar.m3u8"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "KralTürk",
+    "url": "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/refs/heads/main/TURK_TV.m3u_plus"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "myway",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/mywaycanlitv.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Ptrn",
+    "url": "http://87.121.104.29:1855/patronyt.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "İBB Trafik Kameraları",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/ibb_cams.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "istanbul Tursitik Kameralar",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/webcamyt.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "İzlego18",
+    "url": "https://m3u.work/utYsYgD.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "SelcukSports",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar2.m3u8"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "XyzSports",
+    "url": "https://tinyurl.com/mggi18"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Taraftarium24",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar4.m3u8"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "izlego",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/izlego.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "bORUtV",
+    "url": "https://yayinda.atakan1983-borutv.workers.dev/?file=kablotv.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Dünya Futbol",
+    "url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u"
+  },
+  {
+    "kaynak": "xtream",
+    "name": "Vipmaxx",
+    "url": "http://vipmax.live:8080",
+    "username": "dbulentvatan",
+    "password": "71dPex659H",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+  {
+    "kaynak": "xtream",
+    "name": "Vipmaxx1",
+    "url": "http://vipmax.live:8080",
+    "username": "hbp025krvn",
+    "password": "Q2XqxHfmTw",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+  
+  {
+    "kaynak": "m3u8",
+    "name": "Tvjustin",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar5.m3u8"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "DSmartGo",
+    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar6.m3u8",
+    "referer": "https://www.dsmartgo.com.tr/",
+    "origin": "https://www.dsmartgo.com.tr",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+  }
+]
