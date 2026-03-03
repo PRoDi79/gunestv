@@ -1,0 +1,55 @@
+[
+  {
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.org",
+    "username": "hpgdiscoo",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "PowerSinema",
+    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "FanatilFilm",
+    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/F%C4%B0LMLERFANT%C4%B0KAPPP.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Myway Vod",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/mywayVod.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Zerk 17.220 Film",
+    "url": "https://raw.githubusercontent.com/dizifun/Filmler/refs/heads/main/ana_filmler.m3u"
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Zerk 56.595 Film",
+    "url": "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "moon 79.744 Film",
+    "url": "https://raw.githubusercontent.com/mooncrown04/m3u/refs/heads/main/birlesik.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Lunedor 7.382 Film",
+    "url": "https://raw.githubusercontent.com/Lunedor/iptvTR/refs/heads/main/FilmArsiv.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "izlego18",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/izlego18.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "FanatikPlay Dizi",
+    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/Fanat%C4%B1kPlayD%C4%B1z%C4%B1.m3u"
+  }
+]
