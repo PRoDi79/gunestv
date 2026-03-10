@@ -106,7 +106,11 @@
     "password": "Q2XqxHfmTw",
     "userAgent": "IPTVSmartersPlayer"
   },
-  
+  {
+    "kaynak": "m3u8",
+    "name": "World Webcam",
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/world_webcam.m3u"
+  },
   {
     "kaynak": "m3u8",
     "name": "Tvjustin",
