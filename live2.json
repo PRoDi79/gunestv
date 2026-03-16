@@ -20,7 +20,7 @@
   {
     "kaynak": "m3u8",
     "name": "Vavoo.to",
-    "url": "https://raw.githubusercontent.com/GeceKod/vavoo/refs/heads/main/vavoo.m3u",
+    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Turkey.m3u8",
     "referer": "https://vavoo.to/",
     "origin": "https://vavoo.to",
     "user-agent": "vavoo/2.6"
