@@ -1,8 +1,8 @@
 [
- {
+{
     "kaynak": "m3u8",
-    "name": "umittvLokke",
-    "url": "https://biladerlerim-icin.umitm0d.workers.dev/umitm0d.m3u"
+    "name": "SalcaTV",
+    "url": "https://tinyurl.com/salcaTV"
   },
   {
     "kaynak": "m3u8",
@@ -13,22 +13,6 @@
     "kaynak": "m3u8",
     "name": "UzunMuhalefet",
     "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
-  },
-  {
-    "kaynak": "xtream",
-    "name": "Goldvod",
-    "url": "https://goldvod.site",
-    "username": "hpgdisco",
-    "password": "123456",
-    "userAgent": "IPTVSmartersPlayer"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "Vavoo.to",
-    "url": "https://gecekod.github.io/vivii/playlists/vavoo_Turkey.m3u8",
-    "referer": "https://vavoo.to/",
-    "origin": "https://vavoo.to",
-    "user-agent": "vavoo/2.6"
   },
   {
     "kaynak": "m3u8",
@@ -44,11 +28,6 @@
     "kaynak": "m3u8",
     "name": "myway",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/mywaycanlitv.m3u"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "Ptrn",
-    "url": "http://87.121.104.29:1796/patronyt.m3u"
   },
   {
     "kaynak": "m3u8",
@@ -123,10 +102,16 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "DSmartGo",
-    "url": "https://raw.githubusercontent.com/GeceKod/listeler/refs/heads/main/kanallar6.m3u8",
-    "referer": "https://www.dsmartgo.com.tr/",
-    "origin": "https://www.dsmartgo.com.tr",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "name": "Oha.to_Turkey_Kargo1975",
+    "url": "https://tinyurl.com/Rokkr-Tr-Oha",
+    "user-agent": "libmpv",
+    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Oha.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır.Liste sahibi Kargo1975'e teşekkürler."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Kool.to_Turkey_Kargo1975",
+    "url": "https://tinyurl.com/Rokkr-Tr-Kool",
+    "user-agent": "libmpv",
+    "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Kool.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır.Liste sahibi Kargo1975'e teşekkürler."
   }
 ]
