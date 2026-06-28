@@ -14,12 +14,27 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "FilmZeknard",
-    "url": "https://tinyurl.com/tail1903"
+    "name": "jETFilm",
+    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/jetfilm_tum.m3u"
   },
   {
     "kaynak": "m3u8",
-    "name": "FanatilFilm",
+    "name": "FilmModu",
+    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/filmmodu_tum.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "FilmMakinesi",
+    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/filmmakinesi_tum.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "FulHDFilm",
+    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/fhdfi_tum.m3u"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "FanatikFilm",
     "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/F%C4%B0LMLERFANT%C4%B0KAPPP.m3u"
   },
   {
